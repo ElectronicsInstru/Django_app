@@ -13,14 +13,10 @@
 
 
 ## type of changes:
-
-- [x] Breaking change, This code affects the main flow of the system.
-
+<!-- mark with 'x' the options that  apply on your PR  -->
+- [] Breaking change, This code affects the main flow of the system.
 - [] Breaking change, Refactor of an old solution.
-
-- [] This code implement a new fixture.
-
+- [] This code implement a new fixture
 - [] Just stetic change.
-
 - [] Documentation.
 
