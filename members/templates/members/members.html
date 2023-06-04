@@ -1,0 +1,20 @@
+
+{% extends 'core/header_core.html' %}
+
+{% block content %}
+
+<h1>Equipo</h1>
+
+<ul>
+    <li><a href="{% url 'member' id=1 %}">Integrante 1</a></li>
+    <li><a href="{% url 'member' id=2 %}">Integrante 2</a></li>
+    <li><a href="{% url 'member' id=3 %}">Integrante 3</a></li>
+    <li><a href="{% url 'member' id=4 %}">Integrante 4</a></li>
+    <li><a href="{% url 'member' id=5 %}">Integrante 5</a></li>
+  </ul>
+
+
+{% endblock content %}
+
+
+
